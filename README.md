@@ -10,7 +10,7 @@
 
 # Project Overview
 
-![Project Pipeline](https://github.com/najirh/Walmart_SQL_Python/blob/main/walmart_project-piplelines.png)
+![Project Pipeline](https://github.com/SasirSai/Walmart_Data_Analysis/blob/main/working_pipeline.png)
 
 This project focuses on end-to-end sales data analysis using SQL and Python. The workflow includes data cleaning, feature engineering, database integration, and business insight generation from Walmart sales data.
 
